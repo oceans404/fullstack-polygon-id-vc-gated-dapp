@@ -17,9 +17,9 @@ This is an opinionated template for creating VC gated dapps with
 
 #### 0. Follow server setup instructions
 
-Before starting the frontend, run the server. You need the ngrok url from the server in order to start the frontend.
+Before starting the frontend, run the server by following [the server instructions](https://github.com/oceans404/fullstack-polygon-id-vc-gated-dapp/tree/main/server). You need the ngrok url from the server in order to start the frontend.
 
-#### 1. ⭐ Star this repo so you have it for future reference, then clone it and install dependencies
+#### 1. Install frontend dependencies with --legacy-peer-deps
 
 Make sure to run the install command with the --legacy-peer-deps flag.
 

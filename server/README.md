@@ -2,13 +2,6 @@
 
 This repo contains the server code you'll need to set up a VC (Verifiable Credential) gated website with Polygon ID. Complete local server setup below, then hook this verification server up to a frontend so you can limit access based on holding a VC that satisifies your requirements.
 
-- **Part 1: VC Verifier Server**
-  - github repo: this page!
-  - server hosted: https://vc-birthday-server.onrender.com
-- Part 2: Frontend
-  - github repo: https://github.com/oceans404/vc-gated-website
-  - website: https://birthday-gated-website.on.fleek.co
-
 ## Server functionality
 
 - Allows [Socket.io polling](https://socket.io/docs/v3/how-it-works/) to emit session specific events back to connected clients
@@ -19,11 +12,10 @@ This repo contains the server code you'll need to set up a VC (Verifiable Creden
 
 ## Local server setup
 
-#### 1. ⭐ Star this repo so you have it for future reference, then clone it and install dependencies
+#### 1. Install server dependencies
 
 ```bash
-git clone https://github.com/oceans404/vc-verifier
-cd vc-verifier
+cd server
 npm i
 ```
 
