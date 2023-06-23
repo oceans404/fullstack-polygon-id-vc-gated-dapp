@@ -2,10 +2,11 @@
 
 This template spins up a dapp that is 
 
+-   ✅ Built with the popular [React JS](https://react.dev/) library
 -   ✅ VC Gated with a [Polygon ID KYCAgeCredential](https://oceans404.notion.site/How-to-get-a-KYCAgeCredential-Verifiable-Credential-f3d34e7c98ec4147b6b2fae79066c4f6?pvs=4)
--   ✅ Fully connected with [RainbowKit Wallet](https://www.rainbowkit.com/)
--   ✅ Easy styling with the [Chakra UI](https://chakra-ui.com/) library configured (use Chakra's components!)
--   ✅ Reads and writes to a Polygon zkEVM Testnet demo smart contract with [wagmi hooks](https://wagmi.sh/)
+-   ✅ Fully connected with to all EVM chains including Polygon zkEVM Testnet and Polygon Mumbai Testnet [RainbowKit Wallet](https://www.rainbowkit.com/)
+-   ✅ Beautifully styled with configurable components and icons from the [Chakra UI](https://chakra-ui.com/docs/components) library
+-   ✅ Ready to interact with any smart contract thanks to working read and write examples from a Polygon zkEVM Testnet demo smart contract with [wagmi hooks](https://wagmi.sh/)
 
 Use this template as a base to bootstrap a Polygon hackathon project **FAST** 🏃🏻‍♀️ so you can focus on your dapp's business logic & building the value layer of the internet. 🚀
 
