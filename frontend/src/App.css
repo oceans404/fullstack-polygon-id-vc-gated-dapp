@@ -1,0 +1,14 @@
+.vc-check-page {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  min-height: 100vh;
+}
+
+#vc-gated-dapp a {
+  text-decoration: underline !important;
+}
+
+#vc-gated-dapp ul {
+  margin-left: 20px;
+}
