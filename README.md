@@ -14,6 +14,18 @@ Love or hate something about this template? Let me know by [tweeting your feedba
 
 ## Getting started with the template
 
+Node requirement: **node v20.2.0**
+
+Here's how to check your node version. 
+
+```bash
+node -v
+```
+
+If you're not running this version, you can switch your version with [nvm](https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/)
+
+#### Setup
+
 0. Visit the template repo https://github.com/oceans404/fullstack-polygon-id-vc-gated-dapp/tree/main and click "Use this template" to create a new repo
 
 1. Get a KYCAgeCredential Verifiable Credential - [follow instructions here](https://oceans404.notion.site/How-to-get-a-KYCAgeCredential-Verifiable-Credential-f3d34e7c98ec4147b6b2fae79066c4f6?pvs=4)
