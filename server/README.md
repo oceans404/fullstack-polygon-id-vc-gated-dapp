@@ -125,11 +125,7 @@ https://github.com/oceans404/vc-verifier/blob/main/.env.sample#L1
 
 #### 8. Hook the server up to a frontend
 
-This repo covers server setup. Next hook the server up to a frontend using this code:
-
-- frontend github repo: https://github.com/oceans404/vc-gated-website
-- hosted frontend website: https://birthday-gated-website.on.fleek.co
-- additional instructions on how to get a KYCAgeCredential Verifiable Credential and interact with the frontend: https://www.notion.so/oceans404/How-to-get-a-KYCAgeCredential-Verifiable-Credential-f3d34e7c98ec4147b6b2fae79066c4f6?pvs=4
+This repo covers server setup. Next hook the server up to a frontend following https://github.com/oceans404/fullstack-polygon-id-vc-gated-dapp/tree/main/frontend
 
 # More info
 
